@@ -1,0 +1,7 @@
+{
+    "name": "ajacques-quatral/test",
+    "description": "A little test",
+    "require": {
+        "php": ">=5.5.10",
+    }
+}
