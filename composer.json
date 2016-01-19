@@ -4,7 +4,6 @@
     "version": "1.0.1",
     "license": "CC-BY-4.0",
     "minimum-stability": "dev",
-    "prefer-stable": true,
     "require": {
         "php": ">=5.5.10"
     }
