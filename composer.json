@@ -2,6 +2,7 @@
     "name": "ajacques-quatral/test",
     "description": "A little test",
     "version": "1.0.0",
+    "license": "CC-BY-4.0",
     "require": {
         "php": ">=5.5.10"
     }
