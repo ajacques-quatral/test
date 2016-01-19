@@ -3,6 +3,7 @@
     "description": "A little test",
     "version": "1.0.0",
     "license": "CC-BY-4.0",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.5.10"
     }
