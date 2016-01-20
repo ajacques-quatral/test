@@ -7,6 +7,8 @@ class Test
 
     private $value;
 
+    const IS_NULL = 'Is Null';
+
     public function __construct($_value)
     {
         $this->value = $_value;
@@ -55,5 +57,14 @@ class Test
     public function isString()
     {
         return is_string($this->value);
+    }
+
+    public function getIs()
+    {
+        if ($this->isNull) {
+            return self::IS_NULL;
+        }
+
+        
     }
 }
